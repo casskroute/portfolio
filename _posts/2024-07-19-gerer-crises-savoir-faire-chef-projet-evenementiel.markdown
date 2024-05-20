@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Gérer les crises le savoir-faire du chef de projet événementiel
-date:   2024-07-19 15:01:35 +0300
+date:   2023-07-19 15:01:35 +0300
 image:  03.jpg
 tags:   Style
 ---

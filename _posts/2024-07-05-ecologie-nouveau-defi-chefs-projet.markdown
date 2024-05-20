@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "L’écologie : Un nouveau défi pour les chefs de projet"
-date:   2024-07-05 15:01:35 +0300
+date:   2023-07-05 15:01:35 +0300
 image:  05.jpg
 tags:   Home
 ---

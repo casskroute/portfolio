@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "L’intelligence émotionnelle au service de la gestion de projets"
-date:   2024-07-17 15:01:35 +0300
+date:   2023-07-17 15:01:35 +0300
 image:  04.jpg
 tags:   Life
 ---

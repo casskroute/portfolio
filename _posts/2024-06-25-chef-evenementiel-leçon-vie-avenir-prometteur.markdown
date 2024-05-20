@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Le chef de projet événementiel : Une leçon de vie et un avenir prometteur"
-date:   2024-06-25 15:01:35 +0300
+date:   2023-06-25 15:01:35 +0300
 image:  06.jpg
 tags:   Style
 ---

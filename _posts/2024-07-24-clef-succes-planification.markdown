@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La clef du succès : La planification"
-date:   2024-07-24 15:01:35 +0300
+date:   2023-07-24 15:01:35 +0300
 image:  02.jpg
 tags:   Resources
 ---
