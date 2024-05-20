@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
+image: 01.png
 ---
 
 Enchantée, je suis Cassandra, une étudiante dynamique en Bachelor de communication. Passionnée par le pouvoir des mots et des médias, je me lance dans ce projet d'école avec enthousiasme, car il me permet d'explorer et de perfectionner mes compétences dans le domaine de la communication. Chaque jour, je découvre de nouvelles facettes fascinantes de ce monde en constante évolution.
