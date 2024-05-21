@@ -3,7 +3,7 @@ layout: post
 title:  "Stratégies d'Excellence : Les Coulisses du Chef de Projet Événementiel"
 date:   2023-07-24 18:05:55 +0300
 image:  10.jpg
-tags:   analyse
+tags:   analyse-metier
 ---
 En 1896, les Jeux olympiques ont inauguré une ère d'émotions sportives à l'échelle mondiale, dévoilant une scène d'une grandeur sans précédent. Cet événement marquant a initié une nouvelle ère où les rassemblements et les festivités ont pris une dimension inédite. Depuis lors, les événements ont proliféré dans tous les domaines de la société, devenant des moments incontournables pour célébrer, partager et se connecter. Au cœur de cette effervescence, les chefs de projet événementiel se distinguent en tant que visionnaires passionnés, jonglant avec les aspirations et les contraintes pour donner vie à des instants magiques.
 
