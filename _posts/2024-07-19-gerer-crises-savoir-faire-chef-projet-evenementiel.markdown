@@ -3,7 +3,7 @@ layout: post
 title:  Gérer les crises le savoir-faire du chef de projet événementiel
 date:   2023-07-19 15:01:35 +0300
 image:  03.jpg
-tags:   Style
+tags:   savoir-faire
 ---
 Dans l'univers dynamique et parfois imprévisible du management événementiel, les crises peuvent surgir à tout moment, mettant à l'épreuve les compétences et la résilience des chefs de projet. Face à ces situations délicates, la capacité à gérer efficacement les crises devient une qualité indispensable pour assurer le succès et la pérennité des événements. 
 
