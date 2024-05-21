@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stratégies d'Excellence : Les Coulisses du Chef de Projet Événementiel"
-date:   2023-05-29 18:05:55 +0300
+date:   2023-07-24 18:05:55 +0300
 image:  10.jpg
 tags:   Jekyll
 ---
