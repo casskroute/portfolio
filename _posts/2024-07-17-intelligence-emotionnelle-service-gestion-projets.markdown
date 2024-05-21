@@ -2,7 +2,7 @@
 layout: post
 title:  "L’intelligence émotionnelle au service de la gestion de projets"
 date:   2023-07-17 15:01:35 +0300
-image:  04.jpg
+image:  intelligence_emotionnelle.png
 tags:   savoir-être
 ---
 Dans un monde où la routine professionnelle domine nos vies, l'importance de l'intelligence émotionnelle se fait plus évidente que jamais. La pandémie de COVID-19 a mis en lumière le besoin crucial de se sentir bien dans son environnement de travail, donnant ainsi une nouvelle dimension à la gestion des émotions sur le lieu professionnel.

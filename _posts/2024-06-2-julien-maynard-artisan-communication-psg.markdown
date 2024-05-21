@@ -2,7 +2,7 @@
 layout: post
 title:  "Julien Maynard : L'artisan de la communication au PSG"
 date:   2023-06-25 15:01:35 +0300
-image:  02.jpg
+image:  maynard_julien.jpg
 tags:   personnalites 
 ---
 Julien Maynard incarne la passion et l'expertise dans le domaine de la communication sportive. Son parcours académique débute avec un Master en droit à l'université d'Orléans, où il acquiert une solide base de connaissances juridiques. Cependant, sa véritable vocation se révèle être dans le domaine de la communication et du journalisme, le poussant à suivre une classe préparatoire en journalisme à l'école Césame de Lyon, puis à obtenir un Master II en journalisme spécialisé dans le sport à l'ESJ Paris.
