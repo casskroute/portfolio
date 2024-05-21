@@ -3,7 +3,7 @@ layout: post
 title:  "La clef du succès : La planification"
 date:   2023-07-24 15:01:35 +0300
 image:  02.jpg
-tags:   Resources
+tags:   savoir-faire
 ---
 Dans le secteur du management événementiel, la planification revêt une importance capitale pour le chef de projet. Qu'il s'agisse d'un événement de petite ou de grande envergure, la base reste la même : la planification. Selon une étude du Project Management Institute, il existe une forte corrélation entre la planification d'un projet et son succès : mieux un projet est planifié, meilleurs sont les résultats.
 
