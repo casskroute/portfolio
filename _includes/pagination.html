@@ -5,13 +5,13 @@
       {% if paginator.previous_page %}
       
       {% if paginator.previous_page == 1 %}
-        <a class="previous-link" href="{{ site.baseurl }}/">Articles précédents</a>
+        <a class="previous-link" href="{{ site.baseurl }}/">Précédents</a>
       {% else %}
-        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">Articles précédents</a>
+        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">Précédents</a>
       {% endif %}
       
       {% else %}
-        <span class="disabled">Articles précédents</span>
+        <span class="disabled">Précédents</span>
       {% endif %}
 
       <div class="counter-box">
@@ -33,9 +33,9 @@
       </div>
 
       {% if paginator.next_page %}
-      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Articles suivants</a>
+      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Suivants</a>
       {% else %}
-        <span class="disabled">Articles suivants</span>
+        <span class="disabled">Suivants</span>
       {% endif %}
 
 
