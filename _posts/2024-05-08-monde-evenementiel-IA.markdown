@@ -3,7 +3,7 @@ layout: post
 title:  "Le monde de l'événementiel et l’IA"
 date:   2023-07-24 15:01:35 +0300
 image:  10.jpg
-tags:   intelligence_artificielle
+tags:   intelligence-artificielle
 ---
 ## Est-ce que l'intelligence artificielle devrait être une préoccupation pour nous ? 
 
