@@ -2,6 +2,7 @@
 layout: page
 title: "Contactez moi !"
 permalink: /contact/
+image: 01.jpeg
 ---
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
