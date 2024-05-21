@@ -3,7 +3,7 @@ layout: post
 title:  "L’écologie : Un nouveau défi pour les chefs de projet"
 date:   2023-07-05 15:01:35 +0300
 image:  05.jpg
-tags:   Home
+tags:   ecologie
 ---
 Les manifestations, qu'elles soient de petite envergure ou internationales, représentent souvent un moment de célébration, de compétition et de rassemblement pour les amateurs du monde entier. Cependant, derrière l'excitation et la passion, se cachent souvent des défis environnementaux significatifs, mettant au défi les chefs de projet chargés de les organiser.
 
