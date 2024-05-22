@@ -21,7 +21,7 @@ Ce blog est le fruit d'un projet d'année passionnant où nous avons eu l'opport
                 <p>Chef de projet animation JO 2024</p>
             </div>
             <div class="team-member">
-                <img src="../images/maynard_color.jpg">
+                <img src="../images/maynard_color.png">
                 <h4>Maynard Julien</h4>
                 <p>Responsable communication au PSG</p>
             </div>
