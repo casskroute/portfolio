@@ -45,13 +45,9 @@ Ce blog est le fruit d'un projet d'année passionnant où nous avons eu l'opport
     flex-wrap: wrap;
 }
 
-.team-member {
-    margin: 10px;
-}
-
 
 img {
-    width: 150px;
+    width: 225px;
     height: 150px;
     border-radius: 50%;
     margin: 10px;
